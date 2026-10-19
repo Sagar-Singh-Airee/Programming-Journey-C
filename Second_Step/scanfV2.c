@@ -30,7 +30,7 @@ int main(){
     //Now let's start the printing game
 
     printf("\n\n Why not treat yourself to dinner on %d/%d/%d", month, date, year);
-    printf("\n and have %d slices of %s pizza! \n", slices, topping);
+    printf("\n and have %d slices of %s pizza!\n", slices, topping);
     printf("It will cost you  $%.2f! \n\n\n", cost);
 
     return 0;

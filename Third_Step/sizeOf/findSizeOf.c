@@ -9,8 +9,5 @@ int main(){
     int integer = 9;
     printf("The size of nameOf variable is -> %d.\n", sizeof(nameOf));
     printf("The size of integer is -> %d.", sizeof(integer));
-
     return 0 ;
 }
-
-

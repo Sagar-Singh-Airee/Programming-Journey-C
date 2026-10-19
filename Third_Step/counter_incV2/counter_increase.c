@@ -15,5 +15,4 @@ int main(){
     printf("Teek teek %d\n", --number);
     printf("Teek teek %d\n", --number);
     printf("Teek teek %d\n", --number);
-    
 }
