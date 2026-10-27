@@ -30,6 +30,5 @@ int main(){
     }
     while(breaking != 'N');
     printf("The program is terminated!!");
-    return 0;
 
 }
